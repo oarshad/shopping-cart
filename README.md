@@ -11,3 +11,8 @@ Run the tests
 ```shell
 sbt test
 ```
+
+## Main Code
+- [ShoppingCart.scala](src/main/scala/com/oarshad/shopping/cart/service/CartService.scala)
+- [ShoppingCartSpec.scala](src/test/scala/com/oarshad/shopping/cart/service/CartServiceSpec.scala)
+
