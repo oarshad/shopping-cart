@@ -16,5 +16,4 @@ libraryDependencies ++= Seq(
 
 fork := true
 
-
-
+run / connectInput := true
